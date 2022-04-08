@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Chinmay Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.25.233:9980/chinmaytechnologies/repository/faceapp-snapshot/</url>
+	      <url>http://3.110.216.159:9980/chinmaytechnologies/repository/faceapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
